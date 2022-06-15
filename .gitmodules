@@ -1,0 +1,6 @@
+[submodule "movies-explorer-frontend"]
+	path = movies-explorer-frontend
+	url = https://github.com/kirka-dev/movies-explorer-frontend.git
+[submodule "movies-explorer-api"]
+	path = movies-explorer-api
+	url = https://github.com/kirka-dev/movies-explorer-api.git
